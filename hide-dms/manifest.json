@@ -1,0 +1,8 @@
+{
+    "name": "HideDMs",
+    "description": "Hides DMs with chosen users from the DM list.",
+    "authors": [{ "name": "you", "id": "0" }],
+    "main": "index.js",
+    "hash": "e560cbbd641ab713cb4d558a49fadfeccfc3503cc7fee66254f0b951768d8c3a",
+    "vendetta": {}
+}
